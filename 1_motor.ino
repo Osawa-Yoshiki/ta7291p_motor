@@ -1,6 +1,6 @@
-#define PIN1 7
-#define PIN2 8
-#define PWM1 9
+#define PIN1 5
+#define PIN2 6
+#define PWM1 7
 
 void setup() {
   Serial.begin(9600);
